@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exam Inspection Robot</string>
+    <string name="go">Go Line Off</string>
+    <string name="l">Enter Camera IP Address</string>
+    <string name="c">Save</string>
+    <string name="c1">Cam1 Address</string>
+    <string name="c2">Cam2 Address</string>
+    <string name="RA">Robot Address</string>
+    <string name="cc1">cam1 off</string>
+    <string name="cc2">cam2 off</string>
+    <string name="camL">Cam IP Setting</string>
+    <string name="cb">Save Changes</string>
+</resources>
